@@ -1,1 +1,1 @@
-Perfect neopets captcha solver 100% accuracy
+Perfect neopets main shop captcha solver 100% accuracy
